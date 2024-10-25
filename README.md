@@ -2,7 +2,7 @@
 - 👀 I’m interested in the philosophy of the products and their impact on users.
 - 🌱 I’m currently learning GoLang and Python for Data Science.
 - 💞️ I’m looking to collaborate on high-impact products.
-- 📫 Reach me at @acalvillov on Twitter.
+- 📫 Reach me at [@acalvillov](https://x.com/acalvillov) on Twitter/X.
 
 <!---
 AlanCalvillo/AlanCalvillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
